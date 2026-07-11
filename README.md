@@ -116,3 +116,4 @@ Troubleshooting
 Issue	Fix
 Communications link failure on startup	MySQL isn't ready yet — with Docker Compose this is handled by the healthcheck; if running manually, make sure MySQL is running before starting Tomcat.
 
+<img width="1878" height="860" alt="event" src="https://github.com/user-attachments/assets/0efe3af0-9cd2-4ad3-8b11-95bce2b92060" />
